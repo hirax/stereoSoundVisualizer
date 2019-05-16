@@ -1,1 +1,1 @@
-# stereoSounVisualizer-
+# stereoSoundVisualizer
